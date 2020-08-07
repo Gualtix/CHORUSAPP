@@ -95,7 +95,7 @@ Se considera que TODOS los actores del sistema son Empleados y se desea conocer:
 - Password (Alfanumérico, 8 Caracteres mínimo, al menos una mayúscula y dígitos)
 - Nombre y Apellido
 - Teléfono
-- Dirección
+- Dirección 
 - EMail
 - Puesto (Vendedor, Jefe, Administrador, SU)
 - Sucursal a la que será asignado
@@ -106,12 +106,6 @@ Se considera que TODOS los actores del sistema son Empleados y se desea conocer:
 
 NO se considera para esta versión un historial de estados o historial de fechas, solamente son campos que son actualizados en cualquier momento
 
-
-
-
-
-
- 
 ---
 
 # Módulo de Sucursal
